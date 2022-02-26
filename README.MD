@@ -24,7 +24,7 @@ Sample user table
 | ---- | ------- | ------------------------------------------------------------ |
 | 1    | Tony    | `{ "age":  24,  "gender": "male", "likes":  ["technology", "programming", "travelling"] }` |
 | 2    | Stark   | `{ "age":  26,  "gender": "male", "likes":  ["baseball", "cricket", "travelling"] }` |
-| 3    | Jenifer | `{ "age":  25,  "gender": "male", "likes":  ["dance", "reading"]}` |
+| 3    | Jenifer | `{ "age":  25,  "gender": "female", "likes":  ["dance", "reading"]}` |
 
 
 
